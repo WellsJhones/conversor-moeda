@@ -11,7 +11,9 @@ This is a simple currency converter application written in Java. It uses the Exc
 
 1. Clone the repository:"# conversor-moeda" 
 2. git clone https://github.com/WellsJhones/CurrencyConverter.git
-3. Navigate into the project directory:3. Build the project using Maven:3. Build the project using Maven:
+3. Navigate into the project directory
+4. Add Gson library
+  
 ## Usage
 
 1. Run the application:
