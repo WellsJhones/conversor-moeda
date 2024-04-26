@@ -18,7 +18,7 @@ This is a simple currency converter application written in Java. It uses the Exc
 
 1. Run the application:
    java -jar target/CurrencyConverter-1.0-SNAPSHOT.jar
-2. The application will display a menu of the 10 most used currencies.
+2. The application will display a menu of the 25 most used currencies.
 3. Enter the number of the first currency you want to convert from.
 4. Enter the number of the second currency you want to convert to.
 5. Enter the amount to convert.
