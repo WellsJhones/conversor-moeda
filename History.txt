@@ -1,4 +1,0 @@
-amount: 20.00 AED is equivalent to 392.81 AFN2024-04-25 20:58:49: Converted 100.00 USD to 514.26 BRL
-2024-04-25 21:02:32: Converted 50.00 BRL to 35.66 AED
-2024-04-25 21:07:28: Converted 14.00 BAM to 554.07 AFN
-2024-04-25 21:25:49: Converted 300.00 BOB to 223.09 BRL
